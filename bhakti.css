@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.allgod img{
+ height: 200px;
+ width: 200px;
+ display: flex;
+ margin: auto;
+}
+.background{
+  position: absolute;
+    right: 0;
+    left: 0;
+    z-index:-1;
+}
+.pooja{
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+height: 150px;  
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.vishnu{
+  color:  white;   
+}
+.vishnu1{
+  color:  white;   
+}
+.vishnu img{
+  height: 500px;
+  width: 80%;
+}
+.vishnu1 img{
+  height: 550px;
+
+  width: 50%;
+}
+
+.allbutton{
+  display: flex;
+  margin: auto;
+  margin-top: 30px;
+  background-color: red;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+ font-size: 50px;
+}
+.chalisa{
+  margin-top: 50px;
+  color: white;
+  font-size: 50px;
+ 
+}
+.Hanuman{
+  color: orangered;
+  margin-top: 50px;
+  width: 70%;
+}
+.durga{
+  color: orangered;
+  margin-top: 50px;
+ 
+}
+.durga img{
+  margin-left: 50px;
+  display: flex;
+  width: 70%;
+}
+
